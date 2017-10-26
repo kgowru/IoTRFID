@@ -18,9 +18,12 @@
   "homepage": "https://github.com/kgowru/IoTRFID#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
+    "event-hub-client": "^1.0.1",
     "express": "^4.15.3",
+    "js-yaml": "^3.10.0",
     "jsforce": "^1.8.0",
     "rc522": "^0.1.2",
+    "request": "^2.83.0",
     "socket.io": "^1.7.4"
   }
 }

@@ -1,0 +1,5 @@
+namespace: jitterbit-connector
+eventHub: legocity-train
+sharedAccessKeyName: legokey
+sharedAccessKey: kDnbqX3Knv27reuQOL+nXeDWqAKizc+lA1d1j08b1zU=
+Endpoint: sb://jitterbit-connector.servicebus.windows.net/;SharedAccessKeyName=legokey;SharedAccessKey=kDnbqX3Knv27reuQOL+nXeDWqAKizc+lA1d1j08b1zU=;EntityPath=legocity-train
